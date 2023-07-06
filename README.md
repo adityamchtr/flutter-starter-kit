@@ -1,4 +1,4 @@
-# flutter_starter_kit
+# Flutter Starter Kit with GetX
 
 A new Flutter starter kit.
 
