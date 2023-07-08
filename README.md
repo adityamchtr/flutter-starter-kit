@@ -1,7 +1,6 @@
 # Flutter Starter Kit with GetX
 
 A new Flutter starter kit.
-Test Again
 
 ## Getting Started
 
