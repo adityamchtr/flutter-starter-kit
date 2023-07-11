@@ -29,6 +29,14 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSwatch().copyWith(
           primary: AppColors.colorLightPrimary,
           brightness: Brightness.light,
+        ),
+        textTheme: const TextTheme(
+          titleLarge: TextStyle(fontWeight: FontWeight.bold, fontSize: 28),
+          titleMedium: TextStyle(fontWeight: FontWeight.bold, fontSize: 24),
+          titleSmall: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+          bodyLarge: TextStyle(fontSize: 18),
+          bodyMedium: TextStyle(fontSize: 16),
+          bodySmall: TextStyle(fontSize: 14),
         )
       ),
       darkTheme: ThemeData(
